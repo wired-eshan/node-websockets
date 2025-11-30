@@ -1,0 +1,28 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Hands-on websockets exploration",
+  "keywords": [
+    "express",
+    "websockets"
+  ],
+  "homepage": "https://github.com/wired-eshan/node-websockets#readme",
+  "bugs": {
+    "url": "https://github.com/wired-eshan/node-websockets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wired-eshan/node-websockets.git"
+  },
+  "license": "ISC",
+  "author": "eshan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
